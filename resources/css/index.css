@@ -16,6 +16,7 @@ a {
     text-align: center;
     display: block;
     color: #737373;
+    cursor: pointer;
 }
 
 a:hover {
